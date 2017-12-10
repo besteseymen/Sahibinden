@@ -6,6 +6,7 @@ Oyun tek kişi tarafından bilgisayara karşı oynanmaktadır.
 
 Proje indirildikten sonra, bulunduğu klasöre gidilerek 'python3 guessing_game.py' komutu ile oyun çalıştırılır. Internet uygulamasıdır, python3 ve flask kullanılarak sınırlı sürede geliştirilmiştir.  
 
+
 1. Ekran
 
 İlk ekranda 2 girdi alanı bulunmaktadır. Bu girdi alanlarına 1 ile 1000 arasında tam sayı değerler yazılmalıdır. 
@@ -25,6 +26,15 @@ Yapay zeka tahmin etme algoritmasında, oyuncu tarafından 1. ekranda seçilen a
 
 Oyuncunun tahmini, yapay zekanın tahmini ve gerçek sonuç sırasıyla görülebilir.
 Oyuncunun tahmininin gerçek değere yakın olması durumda kazandınız, aksi durumda kaybettiniz ifadeleri görülür.
+
+# Requirements
+
+pandas==0.19.2
+numpy==1.11.3
+Flask==0.12
+statsmodels==0.8.0
+matplotlib==1.5.3
+scikit_learn==0.19.1
 
 # Oluşabilecek Problemler
 
