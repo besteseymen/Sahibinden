@@ -41,12 +41,12 @@ Oyuncunun tahmininin gerçek değere yakın olması durumda kazandınız, aksi d
 
 ## Requirements
 
-pandas==0.19.2
-numpy==1.11.3
-Flask==0.12
-statsmodels==0.8.0
-matplotlib==1.5.3
-scikit_learn==0.19.1
+* pandas==0.19.2
+* numpy==1.11.3
+* Flask==0.12
+* statsmodels==0.8.0
+* matplotlib==1.5.3
+* scikit_learn==0.19.1
 
 ## Oluşabilecek Problemler
 
